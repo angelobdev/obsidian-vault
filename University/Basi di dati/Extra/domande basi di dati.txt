@@ -1,0 +1,24 @@
+definizioni formali (importante, bocciatura diretta!): Chiave primaria ed esterna, dipendenza funzionale, schema relazionale
+Metodi di Hashing lineare ( indicizzazione su Disco )
+Hashing estendibile ( indicizzazione su Disco )
+Definizione di schedule serializzabile
+Schedule con proprietà recoverable e cascadeless
+Tecnica di hashing statico e indirizzamento aperto
+Esempio di schedule view serializzable ma non confict serializzable
+Serializzabilita
+Cascadeless con esempio
+Livelli di isolamento
+Esempio di schedule non vs ma serializzable
+Dimostrazione 2PL => CS
+Phantom read
+Read commited
+Condizione per essere serializzabile
+Esempio schedule cascadeless e recoverable
+Differenza tra bree e bplus tree
+Quando due transizioni sono in conflitto
+Agglomerazione primaria
+Dato e informazione: un dato è una codifica di informazioni
+Perchè non si possono creare chiavi esterne cicliche: una chiave esterne 
+Differenza tra schema e istanza della relazione (non confondere, bocciatura diretta! gli schemi non hanno tuple!)
+
+spesso vengono fatti approfondimenti sull'argomento chiesto.
