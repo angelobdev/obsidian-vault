@@ -1,4 +1,4 @@
-#programma #basididati 
+#basididati 
 ___
 1. **Introduzione**: Sistemi informativi, informazioni e dati. Basi di dati e sistemi di gestione di basi di dati. Modelli dei dati. Linguaggi e utenti delle basi di dati. Vantaggi e svantaggi dei DBMS. 
 
@@ -19,6 +19,17 @@ ___
 9. **Dati semistrutturati**: Il linguaggio di rappresentazione XML. Definizione dello schema dei dati mediante DTD. Interrogazione di documenti XML: XPath ed XQuery.
 
 ==Evidenziati== su "A. Albano - Costruire sistemi per basi di dati - Addison Wesley"
+
+
+ORALE:
+Transazioni, Tecniche Hash, Albero (normale, plus), 
+Domande fondamentali:
+- Chiave candidata 
+- Chiave esterna.
+- Dipendenza funzionale
+- Serializzabilità
+
+
 
 ---
 [Sito web](https://www.unical.it/storage/cds/6259/activities/77085/)

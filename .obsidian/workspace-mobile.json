@@ -4,52 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb53b0cb094c751",
+        "id": "162a13b0a9e8148e",
         "type": "tabs",
         "children": [
           {
-            "id": "075951dd52b326ce",
+            "id": "69598720f134ea1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/University/Basi di dati/Appunti/1. Introduzione.md",
+                "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97c70e9dd1fb9ecd",
+            "id": "f4e8f3ec2c289c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/University/Basi di dati/Basi di dati - Programma.md",
+                "file": "University/Piattaforme web/Piattaforme web - Programma.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22200f8c31d93b27",
+            "id": "291fe474abeb6c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/University/Basi di dati/Basi di dati - Reference.md",
+                "file": "University/Piattaforme web/Piattaforme web - Reference.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7d16aee534713629",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Main/University/Basi di dati/TODO.md"
               }
             }
           }
@@ -119,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main/University/Basi di dati/Appunti/1. Introduzione.md",
+            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main/University/Basi di dati/Appunti/1. Introduzione.md",
+            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main/University/Basi di dati/Appunti/1. Introduzione.md"
+            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md"
           }
         }
       },
@@ -175,26 +165,43 @@
       "sekund:Sekund Panes": false
     }
   },
-  "active": "075951dd52b326ce",
+  "active": "69598720f134ea1b",
   "lastOpenFiles": [
+    "University/Piattaforme web/Piattaforme web - Reference.md",
+    "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+    "University/Piattaforme web/Appunti/1. Introduzione.md",
+    "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
+    "University/Piattaforme web/Piattaforme web - Programma.md",
+    "University/Sistemi Operativi/Sistemi Operativi - Programma.md",
+    "University/Sistemi Operativi/Lezioni/2. Diversi tipi di OS.md",
+    "University/Sistemi Operativi/Lezioni/1. Introduzione.md",
+    "University/Piattaforme web/Appunti",
+    "University/Piattaforme web",
+    "University/Ingegneria del Software/Appunti/1. Introduzione.md",
+    "University/Ingegneria del Software/Ingegneria del Software - Reference.md",
+    "University/Ingegneria del Software/Ingegneria del Software - Programma.md",
+    "University/Basi di dati/Basi di dati - Programma.md",
+    "University/Basi di dati/Appunti/5. Algebra relazionale.md",
+    "University/Ingegneria del Software/Appunti",
+    "University/Ingegneria del Software",
+    "University/Sistemi Operativi/Slide/SLIDE PLACEHOLDER.md",
+    "University/Sistemi Operativi/Slide",
+    "Excalidraw/Drawing 2023-02-27 09.06.21.excalidraw.md",
+    "University/Basi di dati/Appunti/4. La progettazione logica.md",
+    "University/Sistemi Operativi/Lezioni",
+    "University/Sistemi Operativi",
+    "University/Basi di dati/Appunti/3. Il modello relazionale.md",
+    "University/Basi di dati/Appunti/2. Metodologie e modelli.md",
+    "University/Basi di dati/Appunti/1. Introduzione.md",
+    "University/Basi di dati/Appunti/GLOSSARIO.md",
+    "University/Basi di dati/Extra/Basi di dati -Marco Leto.pdf",
+    "University/Basi di dati/Extra/domande basi di dati.txt",
+    "University/Basi di dati/Extra/Orale Basi di Dati by Ciccio2995.pdf",
+    "University/Basi di dati/TODO.md",
+    "University/Basi di dati/Basi di dati - Reference.md",
     "Main/University/Basi di dati/TODO.md",
     "Main/University/Basi di dati/Basi di dati - Reference.md",
     "Main/University/Basi di dati/Basi di dati - Programma.md",
-    "Main/University/Basi di dati/Appunti/1. Introduzione.md",
-    "Main/University/Basi di dati/Appunti/5. Algebra relazionale.md",
-    "__sekund__/2. Metodologie e modelli 1.md",
-    "Excalidraw/5. Algebra relazionale 2023-02-23 19.21.15.excalidraw.md",
-    "Main/University/Basi di dati/Appunti/2. Metodologie e modelli.md",
-    "Main/University/Basi di dati/Appunti/GLOSSARIO.md",
-    "Main/University/Basi di dati/Appunti/4. La progettazione logica.md",
-    "Main/University/Basi di dati/Appunti/3. Il modello relazionale.md",
-    "__sekund__",
-    "__sekund__/README.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2023-02-23 17.09.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-23 17.01.15.excalidraw.md",
-    "Main/University/Basi di dati/Extra/Orale Basi di Dati by Ciccio2995.pdf",
-    "Main/University/Basi di dati/Extra/Definizioni-Formali basi di dati.pdf",
-    "Main/University/Basi di dati/Extra/Basi di dati -Marco Leto.pdf"
+    "Main/University/Basi di dati/Appunti/1. Introduzione.md"
   ]
 }

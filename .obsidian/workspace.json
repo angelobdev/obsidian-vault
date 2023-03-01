@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f188e4498b3e112",
+        "id": "1151cbc007bc9f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "ce095af5b9fb4b2a",
+            "id": "280ac68fac09d108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Basi di dati/Appunti/5. Algebra relazionale.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Basi di dati/Appunti/5. Algebra relazionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Basi di dati/Appunti/5. Algebra relazionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,21 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/Basi di dati/Appunti/5. Algebra relazionale.md"
-              }
-            }
-          },
-          {
-            "id": "fc578c386dc73f6f",
-            "type": "leaf",
-            "state": {
-              "type": "sekund-main-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,10 +136,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "sekund:Sekund Panes": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce095af5b9fb4b2a",
-  "lastOpenFiles": []
+  "active": "bfb9b8b26f702274",
+  "lastOpenFiles": [
+    "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+    "University/Basi di dati/Basi di dati - Reference.md",
+    "University/Basi di dati/Basi di dati - Programma.md",
+    "University/Basi di dati/Appunti/GLOSSARIO.md",
+    "University/Basi di dati/Appunti/5. Algebra relazionale.md",
+    "University/Basi di dati/Appunti/4. La progettazione logica.md",
+    "University/Basi di dati/Appunti/3. Il modello relazionale.md",
+    "University/Basi di dati/Appunti/2. Metodologie e modelli.md",
+    "University/Basi di dati/Appunti/1. Introduzione.md",
+    "2023-03-01.md",
+    "Excalidraw/Drawing 2023-02-27 09.06.21.excalidraw.md",
+    "Excalidraw/5. Algebra relazionale 2023-02-23 19.21.15.excalidraw.md",
+    "University/Basi di dati/TODO.md",
+    "University/Sistemi Operativi/Appunti/1. Introduzione.md",
+    "University/Sistemi Operativi/Slide/sisop1.pdf",
+    "University/Sistemi Operativi/Slide/sisop8.pdf",
+    "University/Sistemi Operativi/Slide/sisop7.pdf",
+    "University/Sistemi Operativi/Slide/sisop6.pdf",
+    "University/Sistemi Operativi/Slide/sisop5.pdf",
+    "University/Sistemi Operativi/Slide/sisop4.pdf",
+    "University/Sistemi Operativi/Slide/sisop3.pdf",
+    "University/Sistemi Operativi/Slide/sisop2.pdf",
+    "University/Sistemi Operativi/Slide/sisop9.pdf",
+    "University/Sistemi Operativi/Slide/sisop11.pdf",
+    "University/Ingegneria del Software/Appunti/1. Introduzione.md",
+    "University/Piattaforme web/Piattaforme web - Reference.md",
+    "University/Piattaforme web/Piattaforme web - Programma.md",
+    "University/Piattaforme web/Appunti/1. Introduzione.md",
+    "__sekund__/2. Metodologie e modelli 1.md",
+    "University/Ingegneria del Software/Ingegneria del Software - Reference.md",
+    "University/Sistemi Operativi/Appunti/2. Diversi tipi di OS.md",
+    "University/Sistemi Operativi/Slide/SLIDE PLACEHOLDER.md",
+    "University/Ingegneria del Software/Ingegneria del Software - Programma.md",
+    "University/Sistemi Operativi/Sistemi Operativi - Programma.md",
+    "University/Sistemi Operativi/Sistemi Operativi - Reference.md"
+  ]
 }
