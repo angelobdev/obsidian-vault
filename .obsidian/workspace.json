@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "280ac68fac09d108",
+            "id": "312901d48735346f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/Piattaforme web/Appunti/3. Database Connectivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dbfb1ea2352f6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Piattaforme web/Piattaforme web - Programma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c705dcaa7e0ee74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Piattaforme web/Piattaforme web - Reference.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Piattaforme web/Appunti/3. Database Connectivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Piattaforme web/Appunti/3. Database Connectivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Piattaforme web/Appunti/3. Database Connectivity.md"
+              }
             }
           }
         ],
@@ -139,42 +171,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfb9b8b26f702274",
+  "active": "312901d48735346f",
   "lastOpenFiles": [
-    "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
-    "University/Basi di dati/Basi di dati - Reference.md",
-    "University/Basi di dati/Basi di dati - Programma.md",
-    "University/Basi di dati/Appunti/GLOSSARIO.md",
-    "University/Basi di dati/Appunti/5. Algebra relazionale.md",
-    "University/Basi di dati/Appunti/4. La progettazione logica.md",
-    "University/Basi di dati/Appunti/3. Il modello relazionale.md",
-    "University/Basi di dati/Appunti/2. Metodologie e modelli.md",
-    "University/Basi di dati/Appunti/1. Introduzione.md",
-    "2023-03-01.md",
-    "Excalidraw/Drawing 2023-02-27 09.06.21.excalidraw.md",
-    "Excalidraw/5. Algebra relazionale 2023-02-23 19.21.15.excalidraw.md",
-    "University/Basi di dati/TODO.md",
-    "University/Sistemi Operativi/Appunti/1. Introduzione.md",
-    "University/Sistemi Operativi/Slide/sisop1.pdf",
-    "University/Sistemi Operativi/Slide/sisop8.pdf",
-    "University/Sistemi Operativi/Slide/sisop7.pdf",
-    "University/Sistemi Operativi/Slide/sisop6.pdf",
-    "University/Sistemi Operativi/Slide/sisop5.pdf",
-    "University/Sistemi Operativi/Slide/sisop4.pdf",
-    "University/Sistemi Operativi/Slide/sisop3.pdf",
-    "University/Sistemi Operativi/Slide/sisop2.pdf",
-    "University/Sistemi Operativi/Slide/sisop9.pdf",
-    "University/Sistemi Operativi/Slide/sisop11.pdf",
-    "University/Ingegneria del Software/Appunti/1. Introduzione.md",
+    "Programma Esami 2023.md",
     "University/Piattaforme web/Piattaforme web - Reference.md",
+    "University/Sistemi Operativi/Slide/sisop2.pdf",
     "University/Piattaforme web/Piattaforme web - Programma.md",
-    "University/Piattaforme web/Appunti/1. Introduzione.md",
-    "__sekund__/2. Metodologie e modelli 1.md",
-    "University/Ingegneria del Software/Ingegneria del Software - Reference.md",
-    "University/Sistemi Operativi/Appunti/2. Diversi tipi di OS.md",
-    "University/Sistemi Operativi/Slide/SLIDE PLACEHOLDER.md",
-    "University/Ingegneria del Software/Ingegneria del Software - Programma.md",
+    "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
+    "Untitled 1.md",
+    "University/Sistemi Informativi/Sistemi Informativi - Reference.md",
+    "University/Sistemi Operativi/Appunti/3. Struttura degli OS.md",
     "University/Sistemi Operativi/Sistemi Operativi - Programma.md",
-    "University/Sistemi Operativi/Sistemi Operativi - Reference.md"
+    "University/Sistemi Informativi/Appunti/1. Ciclo di vita e Analisi di scenario.md",
+    "University/Sistemi Informativi/Appunti/2. Analisi dei requisiti.md",
+    "University/Sistemi Operativi/Appunti/1. Introduzione.md",
+    "University/Sistemi Operativi/Appunti/2. Diversi tipi di OS.md",
+    "E.md",
+    "University/Sistemi Informativi/Sistemi Informativi - Programma.md",
+    "University/Sistemi Operativi/Slide/sisop1.pdf",
+    "University/Piattaforme web/Appunti/3. Database Connectivity.md",
+    "University/Sistemi Informativi/Untitled.md",
+    "University/Sistemi Informativi/Appunti/Untitled",
+    "University/Sistemi Informativi/Appunti",
+    "University/Sistemi Informativi",
+    "University/Piattaforme web/Appunti/1. Introduzione.md",
+    "University/Ingegneria del Software/Materiale/04-PrincipiIS.pdf",
+    "University/Ingegneria del Software/Materiale/03-QualitaSoftware.pdf",
+    "University/Ingegneria del Software/Ingegneria del Software - Reference.md",
+    "University/Ingegneria del Software/Ingegneria del Software - Programma.md",
+    "University/Ingegneria del Software/Appunti/3. Lezione 6-Marzo.md",
+    "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+    "University/Basi di dati/Appunti/1. Introduzione.md",
+    "University/Basi di dati/Appunti/5. Algebra relazionale.md",
+    "University/Ingegneria del Software/Appunti/2. Lezione 2-Marzo.md",
+    "University/Ingegneria del Software/Materiale/UML/UseCaseDiagram.pdf",
+    "University/Ingegneria del Software/Materiale/UML/StruttureComposite.pdf",
+    "University/Ingegneria del Software/Materiale/UML/StateDiagram1.pdf",
+    "University/Ingegneria del Software/Materiale/spiralmodel.jpg",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Strategy/diagrams/strategy_sorting.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Prototype/diagrams/prototype_scheduler.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Memento/diagrams/memento_accumulator.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Mediator/diagrams/mediator_market.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Façade/diagrams/façade_car_eng.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Factory/diagrams/factory_map.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Factory/diagrams/factory_contratti.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Factory/diagrams/esempio_Evian-Lausanne.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Factory/diagrams/contratti_old_inAula.png",
+    "University/Ingegneria del Software/Appunti/1. Introduzione.md"
   ]
 }

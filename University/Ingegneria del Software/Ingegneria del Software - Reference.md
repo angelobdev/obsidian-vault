@@ -1,6 +1,9 @@
 #ingegneriasoftware 
-[[Ingegneria del Software - Programma | PROGRAMMA CORSO]]
 
+---
+[[Ingegneria del Software - Programma |PROGRAMMA CORSO]]
+
+---
 ### Appunti
 1. [[University/Ingegneria del Software/Appunti/1. Introduzione| Introduzione]]
 2. 
@@ -34,6 +37,4 @@ Gamma, Helm, Johnson... - Design patters. Elementi per il riuso di software a og
 Fowler - UML distilled. Guida rapida al linguaggio di modellazione standard - Wesley 2010
 
 ---
-
-
 [Sito web](https://www.unical.it/storage/cds/7179/activities/87442/)

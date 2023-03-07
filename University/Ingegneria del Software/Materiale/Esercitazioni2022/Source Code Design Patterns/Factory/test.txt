@@ -1,0 +1,3 @@
+cod1-nome-cognome-indirizzo
+cod2-n-c-i
+cod3-pippo-pluto-topolinia

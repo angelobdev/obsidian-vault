@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+                "file": "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+            "file": "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+            "file": "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "University/Piattaforme web/Appunti/2. HTML e HTTP.md"
+            "file": "University/Sistemi Operativi/Sistemi Operativi - Reference.md"
           }
         }
       },
@@ -155,53 +155,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "sekund:Sekund Panes": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "69598720f134ea1b",
   "lastOpenFiles": [
-    "University/Piattaforme web/Piattaforme web - Reference.md",
+    "University/Sistemi Operativi/Appunti/1. Introduzione.md",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/StrategyVsTemplate/src/strategy/Logging.java",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/StrategyVsTemplate/src/strategy/FileLogging.java",
+    "University/Ingegneria del Software/Materiale/codice sorgente esempi/simpleRMI/simpleRMIserver/src/server.policy",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Strategy/src/module-info.java",
     "University/Piattaforme web/Appunti/2. HTML e HTTP.md",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/StrategyVsTemplate/bin/strategy/Client.class",
+    "University/Ingegneria del Software/Materiale/codice sorgente esempi/simpleRMI/simpleRMIcommon/out/artifacts/simpleRMIcommon_jar/simpleRMIcommon.jar",
+    "University/Ingegneria del Software/Materiale/codice sorgente esempi/BBRMI/BBServer/src/is/bbrmi/BoundedBufferServer.java",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Prototype/bin/prototype/SchedulerC.class",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Extra/Es3/esempi_debugging/debugging_intelliJ/AverageFinder.java",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Extra/Es1_Es2/poo/util/TestArrayVector.java",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Bridge/diagrams/noBridge_printer.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Mediator/diagrams/mediator_market.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Factory/diagrams/esempio_Evian-Lausanne.png",
+    "University/Ingegneria del Software/Materiale/Esercitazioni2022/Source Code Design Patterns/Façade/diagrams/façade_car_eng.png",
+    "University/Piattaforme web/Piattaforme web - Reference.md",
     "University/Piattaforme web/Appunti/1. Introduzione.md",
     "University/Sistemi Operativi/Sistemi Operativi - Reference.md",
     "University/Piattaforme web/Piattaforme web - Programma.md",
     "University/Sistemi Operativi/Sistemi Operativi - Programma.md",
     "University/Sistemi Operativi/Lezioni/2. Diversi tipi di OS.md",
     "University/Sistemi Operativi/Lezioni/1. Introduzione.md",
-    "University/Piattaforme web/Appunti",
-    "University/Piattaforme web",
     "University/Ingegneria del Software/Appunti/1. Introduzione.md",
     "University/Ingegneria del Software/Ingegneria del Software - Reference.md",
     "University/Ingegneria del Software/Ingegneria del Software - Programma.md",
     "University/Basi di dati/Basi di dati - Programma.md",
     "University/Basi di dati/Appunti/5. Algebra relazionale.md",
-    "University/Ingegneria del Software/Appunti",
-    "University/Ingegneria del Software",
     "University/Sistemi Operativi/Slide/SLIDE PLACEHOLDER.md",
-    "University/Sistemi Operativi/Slide",
     "Excalidraw/Drawing 2023-02-27 09.06.21.excalidraw.md",
     "University/Basi di dati/Appunti/4. La progettazione logica.md",
-    "University/Sistemi Operativi/Lezioni",
-    "University/Sistemi Operativi",
     "University/Basi di dati/Appunti/3. Il modello relazionale.md",
     "University/Basi di dati/Appunti/2. Metodologie e modelli.md",
     "University/Basi di dati/Appunti/1. Introduzione.md",
     "University/Basi di dati/Appunti/GLOSSARIO.md",
-    "University/Basi di dati/Extra/Basi di dati -Marco Leto.pdf",
-    "University/Basi di dati/Extra/domande basi di dati.txt",
-    "University/Basi di dati/Extra/Orale Basi di Dati by Ciccio2995.pdf",
     "University/Basi di dati/TODO.md",
     "University/Basi di dati/Basi di dati - Reference.md",
     "Main/University/Basi di dati/TODO.md",
     "Main/University/Basi di dati/Basi di dati - Reference.md",
-    "Main/University/Basi di dati/Basi di dati - Programma.md",
-    "Main/University/Basi di dati/Appunti/1. Introduzione.md"
+    "Main/University/Basi di dati/Basi di dati - Programma.md"
   ]
 }

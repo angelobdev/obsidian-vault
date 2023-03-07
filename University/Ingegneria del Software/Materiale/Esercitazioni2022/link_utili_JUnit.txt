@@ -1,0 +1,15 @@
+JUNIT
+https://junit.org/junit4/
+https://junit.org/junit5/
+
+Junit jar
+https://search.maven.org/search?q=g:junit%20AND%20a:junit
+
+Hamcrest jar
+https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
+
+Tabella confronto JUnit 4 e JUnit 5
+https://howtodoinjava.com/junit5/junit-5-vs-junit-4/
+
+Tutorial JUnit per IntelliJ
+https://www.jetbrains.com/help/idea/junit.html

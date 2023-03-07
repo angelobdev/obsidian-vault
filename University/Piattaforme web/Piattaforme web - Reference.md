@@ -5,9 +5,10 @@
 
 ---
 ### Appunti
-1. [[University/Piattaforme web/Appunti/1. Introduzione |Introduzione]]
-2. [[2. HTML e HTTP]]
-3. 
+- [[University/Piattaforme web/Appunti/1. Introduzione |1. Introduzione]]
+- [[2. HTML e HTTP]]
+- [[3. Database Connectivity]]
+- 
 
 ---
 ### Info
